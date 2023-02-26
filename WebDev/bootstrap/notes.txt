@@ -1,0 +1,20 @@
+<!-- <div class="row">
+            <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: grey;">
+                col1
+            </div>
+            <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: grey;">
+                col2
+            </div>
+            <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: grey;">
+                col3
+            </div>
+            <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: grey;">
+                col4
+            </div>
+            <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: grey;">
+                col5
+            </div>
+            <div class="col-lg-2 col-md-3 col-sm-12" style="background-color: grey;">
+                col6
+            </div>
+        </div> -->

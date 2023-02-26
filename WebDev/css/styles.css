@@ -1,0 +1,31 @@
+body{
+    background-color:black;
+}
+hr{
+    border-style:none;
+    background-color: black;
+    border-top:10px dotted white;
+    
+    width:5%;
+}
+table{
+    background-color:lightcoral;
+}
+img{
+    width:400px;
+}
+label{
+    color:white;
+}
+h1{
+    color:white;
+    background-color: darkorange;
+}
+textarea {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+form{
+    background-color:darkorange;
+}

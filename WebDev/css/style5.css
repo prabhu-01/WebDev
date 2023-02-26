@@ -1,0 +1,73 @@
+.TopContainer{
+    background-color: #E4F9F5;
+    color:rgb(123, 189, 152);
+    
+}
+.heading1{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 70px;
+    display: inline;
+    height:30px;
+    text-align: center;
+    width: 10%;  
+}
+.headimage{
+    background-color: #E4F9F5;
+}
+
+.subhead{
+    display: inline;
+    text-align: center;
+}
+.cloud1{
+    position:absolute;
+    right: 250px;
+    top: 120px;
+}
+.cloud2{
+    position: absolute;
+    left: 250px;
+    top: 300px;
+}
+.profile{
+    padding-top: 50px;
+    background-color: #E4F9F5;
+    height: 350px;
+    
+}
+.ProfilePic{
+    position: relative;
+    top: 20px;
+}
+
+.skills{
+    padding-top: 50px;
+    background-color: #E4F9F5;
+    height: 700px;
+}
+
+.borderless{
+    margin: 0;
+    clear: left;
+}
+.CodingSkill{
+    background-color: #E4F9F5;
+    float:left;
+}
+.contact-me{
+    background-color: #E4F9F5;
+}
+
+.op{
+    width:60%;
+    clear: left;
+}
+.skill-pic{
+    float: left;
+}
+.skill-row{
+    width: 60%;
+}
+p{
+    line-height: 2;
+}

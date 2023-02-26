@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+h1{
+    color: orange;
+    font-style: italic;
+    text-size-adjust: 40;
+}
+.smile{
+    background-color: yellow;
+}
+.frown{
+    background-color:red;
+}
+#heading{
+    color:brown;
+}
+.circular{
+    border-radius: 50%;
+}

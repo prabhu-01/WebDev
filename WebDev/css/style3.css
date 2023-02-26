@@ -1,0 +1,91 @@
+.TopContainer{
+    background-color: #E4F9F5;
+    color:rgb(123, 189, 152);
+    
+}
+.heading1{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 70px;
+    display: inline;
+    height:30px;
+    text-align: center;
+    width: 10%;
+    
+    
+}
+.headimage{
+    background-color: #E4F9F5;
+}
+p{
+    border: solid;
+    
+    border-width: 40px;
+    border-color: brown;
+    margin: 30px;
+
+}
+
+
+
+.subhead{
+    display: inline;
+    text-align: center;
+}
+.cloud1{
+    position:absolute;
+    right: 250px;
+    top: 120px;
+}
+.cloud2{
+    position: absolute;
+    left: 250px;
+    top: 300px;
+}
+
+
+.MiddleContainer{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    
+}
+.BottomContainer{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    display: inline-block;
+    right: 200px;
+}
+.VeryBottomContainer{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+}
+.first{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+.second{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 210px;
+}
+.third{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 400px;
+    position: relative;
+    top: 200px;
+}

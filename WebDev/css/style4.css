@@ -1,0 +1,24 @@
+.LeftWaala{
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border-width: 10px;
+    padding: 20px;
+}
+.CenterWaala{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin-left: 260px;
+    border: solid;
+    border-width: 20px;
+}
+.RighthWaala{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    border: solid;
+    border-width: 10px;
+}
